@@ -34,8 +34,8 @@
 
 <H2><b><i> How To Reach Out To Me?</i></b></H2>
 
-[![Gmail_Logo_64px](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/4f0b760d-bccc-4872-90cc-d3b08e4afa09)](contactasher.u.haque@gmail.com)
-[![linkedin](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/e8275da3-efee-4f25-9847-2a8342ff3022)](www.linkedin.com/in/asher-u-haque-53629a284)
+[![Gmail_Logo_64px](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/4f0b760d-bccc-4872-90cc-d3b08e4afa09)](mailto:contactasher.u.haque@gmail.com)
+[![linkedin](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/e8275da3-efee-4f25-9847-2a8342ff3022)](https://www.linkedin.com/in/asher-u-haque-53629a284)
 [![insta logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/3d9e3fe7-153f-46d1-bb0d-b53da5d1906c)](https://www.instagram.com/just_somebody_somewhere/)
 
 
