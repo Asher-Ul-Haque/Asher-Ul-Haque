@@ -27,6 +27,8 @@
 ![Clion logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/c84f3526-0f17-483b-94ef-570a55ba0598)
 ![github light](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/c41cdc53-38da-41be-aca5-536a6d7038b0#gh-dark-mode-only)
 ![git](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/3a083d33-cb54-4617-be3e-5ba7f3a5c747)
+![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/22b7bea1-7138-4638-ba99-472252a9f27d)
+
 
 <br>
 
