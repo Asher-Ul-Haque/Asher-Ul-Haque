@@ -14,6 +14,7 @@
 </H3>
 <br>
 
+
 ***
 
 <H2><b><i> What Languages and Tools do I know?</i></b></H2>
@@ -40,7 +41,13 @@
 [![linkedin](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/e8275da3-efee-4f25-9847-2a8342ff3022)](https://www.linkedin.com/in/asher-u-haque-53629a284)
 [![insta logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/3d9e3fe7-153f-46d1-bb0d-b53da5d1906c)](https://www.instagram.com/just_somebody_somewhere/)
 
+***
 
+<H2><b><i>Some Stats</i></b></H2>
+
+![Just Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Asher-Ul-Haque&show_icons=true&theme=vue-dark)
+
+![Just Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asher-Ul-Haque&layout=compact&show_icons=true&theme=vue-dark)
 
 
 
