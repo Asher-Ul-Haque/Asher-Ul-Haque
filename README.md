@@ -4,50 +4,33 @@
 
 ***
 
-<H2><b><i> Who Am I?</i></b></H2>
-
-<H3>
-  
+# 💫 About Me:
+* I'm currently working on android development in Kotlin<br>I'm looking to collaborate on projects working on the intersection of hardware and software
 * I am a student at IIIT-D 📖
 * I am pursuing my Bachelors in Computer Science 💻
 * I like making software that I can use in my daily life 😊
-</H3>
-<br>
 
 
-***
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.just_somebody_called_somebody) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_somebody_somewhere) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asher U. Haque) 
 
-<H2><b><i> What Languages and Tools do I know?</i></b></H2>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asher-Ul-Haque&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asher-Ul-Haque&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Ul-Haque&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![python](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/645ccc45-c3e6-4091-a153-7ae5ffc5d0da)  ![java](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/81477585-9dd3-48de-bc11-8c7dc7f29e84)   ![kotlin-logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/7fcbd4d2-87c3-4dfe-ae62-c1dc3beaf270)
-![c++](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/b3a0164a-ac3a-4e3d-a698-3f8d3c2726fa)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Asher-Ul-Haque&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Asher-Ul-Haque&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Asher-Ul-Haque&icon=5&color=10)](https://visitcount.itsvg.in)
 
 
-![Pycharm logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/04715142-ec64-477b-914f-9346030aa0c4)
-![IntelliJ Idea](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/dc1eaedc-8123-47fb-af32-1ac8a1a18b7c)
-![Clion logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/c84f3526-0f17-483b-94ef-570a55ba0598)
-![github light](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/c41cdc53-38da-41be-aca5-536a6d7038b0#gh-dark-mode-only)
-![git](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/3a083d33-cb54-4617-be3e-5ba7f3a5c747)
-[![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/22b7bea1-7138-4638-ba99-472252a9f27d)](https://leetcode.com/just_somebody/)
-
-
-<br>
-
-***
-
-<H2><b><i> How To Reach Out To Me?</i></b></H2>
-
-[![Gmail_Logo_64px](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/4f0b760d-bccc-4872-90cc-d3b08e4afa09)](mailto:contactasher.u.haque@gmail.com)
-[![linkedin](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/e8275da3-efee-4f25-9847-2a8342ff3022)](https://www.linkedin.com/in/asher-u-haque-53629a284)
-[![insta logo](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/3d9e3fe7-153f-46d1-bb0d-b53da5d1906c)](https://www.instagram.com/just_somebody_somewhere/)
-
-***
-
-<H2><b><i>Some Stats</i></b></H2>
-
-![Just Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Asher-Ul-Haque&show_icons=true&theme=vue-dark)
-
-![Just Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asher-Ul-Haque&layout=compact&show_icons=true&theme=vue-dark)
 
 
 
