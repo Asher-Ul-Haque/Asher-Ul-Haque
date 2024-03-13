@@ -1,6 +1,8 @@
-<H1><center><b><i><u> HELLO THERE, I AM JUST SOMEBODY  </u></i></b></center></H1>
 
-![Photo main](https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/b4d80a81-4c39-4e6b-b0ec-027cae0b289b)
+<p align = "center">
+   <H1><b><i><u> HELLO THERE, I AM JUST SOMEBODY  </u></i></b></H1>
+   <img src = "https://github.com/Asher-Ul-Haque/Asher-Ul-Haque/assets/147892995/b4d80a81-4c39-4e6b-b0ec-027cae0b289b">
+</p>
 
 ***
 
@@ -20,13 +22,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Asher-Ul-Haque&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asher-Ul-Haque&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Ul-Haque&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Ul-Haque&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Asher-Ul-Haque&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Asher-Ul-Haque&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asher-Ul-Haque&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
