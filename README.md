@@ -7,7 +7,7 @@
 ***
 
 # 💫 About Me:
-* I'm currently working on android development in Kotlin<br>I'm looking to collaborate on projects working on the intersection of hardware and software
+* Currently working on software rasterization
 * I am a student at IIIT-D 📖
 * I am pursuing my Bachelors in Computer Science 💻
 * I like making software that I can use in my daily life 😊
